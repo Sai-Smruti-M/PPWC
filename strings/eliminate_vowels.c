@@ -1,3 +1,4 @@
+//Qn-eliminate the vowels present in the string
 #include<stdio.h>
 #include<stdlib.h>
 int main()
@@ -25,3 +26,7 @@ int main()
 
 
 }
+// ./a.exe            
+// enter the length of the string=7
+// enter the string:saeioum 
+// sm
