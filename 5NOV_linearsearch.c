@@ -28,3 +28,9 @@ int main() {
 
     return 0;
 }
+// Enter the length of the array=4
+// Enter the elements of the array:
+// 3 1 2 4
+// Enter the number to search=1
+// The number 1 is found at position 2
+
