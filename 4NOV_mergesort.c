@@ -79,3 +79,9 @@ int main() {
     printArray(a,n);
     return 0;
 }
+// PS C:\Users\Satya Prasad\Desktop\2241013383\structures>./a.exe
+// Enter the length of your array:4
+// Enter the array elements:3 1 2 4
+
+// Sorted array is
+// 1 2 3 4
